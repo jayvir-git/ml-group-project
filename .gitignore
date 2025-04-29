@@ -1,0 +1,18 @@
+# Ignore specific files
+ML Project Report.pdf
+mlproject_test.py
+mlproject.py
+Project_Description-1.docx
+
+# Ignore Python virtual environment folders (common practice)
+venv/
+.venv/
+
+# Ignore Python cache files (common practice)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore IDE/editor specific files (examples)
+.idea/
+.vscode/
